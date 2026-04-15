@@ -1,1 +1,1 @@
-Silakan buat pull request jika ingin berkontribusi.
+Semua kontribusi, laporan bug, perbaikan bug, peningkatan dokumentasi, peningkatan, dan ide-ide sangat diterima.
