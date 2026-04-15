@@ -1,1 +1,1 @@
-Harap saling menghormati dalam proyek ini.
+Janji Kami, Standar Kami, Tanggung Jawab Penegakan, Ruang Lingkup, Penegakan, Pedoman Penegakan, dan Atribusi.
